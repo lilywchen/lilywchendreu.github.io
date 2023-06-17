@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Summer 2020 DREU Project Site
+title: Summer 2023 DREU Project Site
 ---
 
 * TOC
@@ -8,15 +8,14 @@ title: Summer 2020 DREU Project Site
 
 ## About Me
 
-My info goes here.
-
+Hi! I'm Lily Chen, a Mathematics and Computer Science student from MIT. I plan to graduate in 2024. My email is lilyyechen@gmail.com.
 ## About My Mentor
 
-Mentor info goes here.
+My mentor is Jessy Junyi Li, an Assistant Professor in the Linguistics Department at UT Austin, who works in computational linguistics and natural language processing, https://jessyli.com/. 
 
 ## About My Project
 
-Project description goes here.
+I am currently working on a project on factuality and elaborative simplification of clinical abstracts with LLMs. 
 
 [My Final Report](files/finalreport.pdf)
 

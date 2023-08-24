@@ -17,7 +17,7 @@ My mentor is Jessy Junyi Li, an Assistant Professor in the Linguistics Departmen
 
 I am currently working on a project on factuality and elaborative simplification of clinical abstracts with LLMs. 
 
-[My Final Report](files/finalreport.pdf)
+[My Final Report](lilywchendreu.github.io/files/finalreport.pdf)
 
 ## My Blog
 

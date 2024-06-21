@@ -1,0 +1,22 @@
+---
+layout: post
+title: 2024 Week 4
+---
+
+Week 4!
+My goodness, I'm surprised it's nearly the end of June--yet so many questions are yet to be answered about the direction of our research and how our paper wants to go.
+This week has mostly been trying to brainstorm new directions and studying related literature of where this research could take us.
+After doing a very small annotation sample, and with the professors being away for NAACL, we still need to finalize our annotation guidelines, and get started on our annotation ASAP if we want to submit by ICLR 2025 and have time for analysis, writing, and followup experiments.
+
+However, I've also explored a lot more into Information Retrieval literature, especially regards to LLMs roles in IR.
+Some interesting papers I've found relate to LLMs being one of the best methods for list wise raking for relevance compared to previous supervised methods (even in domains where it doesn't have background info, it's good at assessing for relevance given the query), 
+as well as an overall survey of LLMs in information retrieval, which include rewriting queries with many different methods to make them more relevant for retrieval or increase retrieval quality.
+I definitely will start doing some experiments with LLMs seeing how they re-rank abstracts we have retrieved for relevance, and possibly rewriting fuzzy queries or claims with LLMs.
+
+There's still a massive question left in the air of what this paper will end up being.
+For one, it will definitely have a medical expert led benchmark for multi-document synthesis and retrieval for medical claim-checking, which will be valuable to the digital health community and NLP community.
+But additionally, we are also thinking of what kind of system we want to create to claim check and what the priorities are.
+There are different versions and visions of the system, which could either be all LLM based, or partially black box supervised model based to synthesize the ranking or order of evidence.
+We will discuss with the profs, and I will keep doing more experiments!
+
+Cheers to more information retrieval!

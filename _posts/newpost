@@ -1,1 +1,21 @@
-hi
+---
+layout: post
+title: 2024 Week 5
+---
+
+Week 5!
+The actual final days of June are coming. Summer is flying by, and the time crunch towards September is starting to feel more intense.
+
+Unfortunately, we got the bad news that the awesome annotators we worked with in the last project cannot work with us on this project because they are full time in medical school and working in a clinic in Germany.
+We've figured out the annotation scheme and are running with it. We've also filtered out and narrowed the types of claims we want to annotate and study for this project, particularly clear medical claims that are positioned and contain PIO elements in the social media post.
+I've worked on filtering out the bad claims from the set of 80 claims we had, and we now have 57 good claims (23 thrown out).
+
+The next step is to massively recruit on Upwork, contact and try to onboard medical experts for annotation ASAP, starting with the pilot. After the pilot, we will adjust accordingly and set an annotation plan (hopefully with many annotators) to finish a good amount of claims promptly.
+I will also be working on getting more claims from the RedHOT data (400), and then manually filtering and studying them for good/bad claims.
+After this, I will retrieve the top 10 relevant abstracts for those claims, in essence preparing the rest of the dataset for annotation.
+
+Furthermore, I will be working on more baseline experiments with various LLMs and different step ablations, to study the minimal needed steps to guide a machine to reliable synthesis.
+The most recent group research meeting was extremely insightful in scoping out what the message of the paper should be, not just a stiff x step paper guide to synthesis, but actually discovering the needed steps to guide different kinds of models to synthesis, rather than imposing human steps reasoning on machines.
+The story of our paper could be different as well, as we could use this information to train an efficient and reliable system to help LLMs to synthesize medical information reliably.
+
+Cheers to July!! 🎆🎆 (and more experiments and annotation)

@@ -1,0 +1,23 @@
+---
+layout: post
+title: 2024 Week 6
+---
+
+Week 6!
+Happy July 4th to everyone! 🎆🎆
+
+After eating some burgers and soaking up the sun, I have some updates on where we stand with the annotation task:
+Our goal: To create a benchmark with 300 claims.
+We have talked to three medical experts (MD students from the US and a professional with a MD/PhD), who might become our annotators
+We also created an Upwork job listing (which 130+ people applied to), and went through some of the candidates. We found a few MDs/doctors from America, but we are planning to hopefully go forward with the three medical experts we personally sourced first, then choose from Upwork if we need more help.
+
+The next thing I need to do is finish filtering out the additional claim data from RedHot for valid claims, and then retrieve the relevant medical abstracts, whilst working on some system benchmarks/studying synthetic data propositions for creating a system
+We're hoping that we can work through the annotation in ~4 weeks:
+Week 1:
+Each annotator annotates 27 claims (full set of 40 doubly-annotated claims)
+Week 2, 3, 4: 
+Each annotator annotates 29 claims (singly-annotated)
+This plan would give us a full set of 40 doubly-annotated claims and 260 singly-annotated claims within a reasonable benchmark.
+
+The following is just trying to guide the annotation process smoothly and make more steps towards systems building and experiments.
+Stay cool for the rest of July!!! 🍹🍹🍹

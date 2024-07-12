@@ -1,0 +1,21 @@
+---
+layout: post
+title: 2024 Week 7
+---
+
+Week 7!
+As the heat is approaching, summer is going by so fast unfortunately... mid July is approaching
+
+I am about to move to Austin tomorrow, I'm really excited to be near the office and start having in person research meetings with my advisor and co-lead. I'm not super excited about the heat, but will definitely be bringing a hat and staying in AC indoors.
+
+Some updates:
+- Timeline has now changed to ArXiving late November (goal) so that there's a link to a preprint for graduate applications this Fall. This definitely gives us more time to do quality experiments after an expert led annotation study, but I am still a bit urgent about staying on the timeline and having ample time to write and calibrate the paper.
+- Recruiting expert medical annotators has been tough: I've personally emailed 10+ people through contacts, and managed to find one really great candidate fit, but they don't have too much availability per week because they're a MD student and work in the clinic.
+It definitely has been tough trying to find the right fit for the medical expert job, and I'm still actively emailing people I have 1st or 2nd degree connections with. If this doesn't work, we will resort to hiring off of Upwork or asking my PI to contact the medical school at UT for recruiting.
+Once I find someone who's interested, it's still a lengthy pipeline of seeing how they do on the 1-2 claim samples, the time it takes, and seeing if they actually enjoy the job
+I do really hope we can find about ~3-4 quality medical experts to start the pilot annotation task and get the ball rolling.
+Our goal is to continue the expert led annotation through August, and annotate 300 claims.
+
+In terms of actual experiments, I honestly haven't done that much since I've been boggled down with trying to recruit medical experts recently, but I definitely need to look into ideas for distillation, and also other experiments with automatic claim filtering and do the abstract retrieval for the newer claims.
+
+Excited to move to Austin!

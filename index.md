@@ -16,9 +16,9 @@ My mentor is Jessy Junyi Li, an Assistant Professor in the Linguistics Departmen
 ## About My Project
 
 In 2023, I worked on a project on factuality and elaborative simplification of clinical abstracts with LLMs. 
-[My Final Report](files/finalreport.pdf)
+[My Final Report 2023](files/finalreport.pdf)
 
-Currently, (2024), I am working on retrieval based claim checking based off of Reddit health posts.
+Currently, (2024), I am working on retrieval based claim checking based off of Reddit health posts. [My Final Report 2024](files/DREU_Final_Report_2024.pdf)
 
 ## My Blog
 
